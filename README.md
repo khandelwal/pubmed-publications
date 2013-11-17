@@ -1,4 +1,4 @@
 pubmed-publications
 ===================
 
-Use the PubMed API to get a publication list
+Use the PubMed API to get a publication list. 
